@@ -1,0 +1,6 @@
+export type ReqUser = {
+    sub: number,
+    email: string,
+    iat: number,
+    exp: number,
+};
